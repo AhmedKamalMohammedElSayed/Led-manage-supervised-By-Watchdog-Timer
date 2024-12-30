@@ -73,3 +73,16 @@ be every 5ms and check that watchdog reset occurs after 114ms.
 
 https://github.com/user-attachments/assets/e5e80c70-7dd1-4857-93e3-ecb06ae24cee
 
+
+
+
+### Team
+------------------------------------------
+
+| Team Members' Names | 
+|---------------------|
+| [Ahmed Kamal](https://github.com/AhmedKamalMohammedElSayed)|
+| [OmarAbdelnasser](https://github.com/omarshaban02)| 
+| [Abdelrahman Shawky](https://github.com/AbdulrahmanGhitani)|       
+| [Ziyad El-Fayoumy](https://github.com/Zoz-HF)|        
+
